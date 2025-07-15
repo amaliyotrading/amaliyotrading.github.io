@@ -3,9 +3,9 @@ title: Amaliyo Trading Pty(Ltd)
 email: amaliyo.ko@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Amaliyo Trading (PTY) Ltd is a 100% Black female owned company providing superior customer services and empowering women in underdeveloped sectors of South Africa.
-baseurl: "/amaliyotrading/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  khosigill # Replace with your GitHub username if you plan to host on GitHub Pages
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://amaliyotrading.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  amaliyotrading # Replace with your GitHub username if you plan to host on GitHub Pages
 
 # Build settings
 markdown: kramdown
